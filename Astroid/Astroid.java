@@ -7,7 +7,7 @@ public class Astroid {
 		// Optional parameters: a, ε
 		if (args.length > 0)
 		{
-			a = Integer.parseInt(args[0]);
+			a = Double.parseDouble(args[0]);
 		}
 		if (args.length > 1)
 		{

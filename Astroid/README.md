@@ -8,12 +8,13 @@ Other names : H4 (hypocycloid with 4 cusps), cubocycloid.
 
 ## Draw an Astroid in the console
 Optional arguments:
-- a
-- ε
-
-Example output:
-![output](output.png)
+- a (double)
+- ε (double)
 
 What we expect:
 
 ![expectation](expectation.png)
+
+Example output:
+
+![output](output.png)
